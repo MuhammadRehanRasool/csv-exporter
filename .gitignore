@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+*.log
+
+# Node / React
+node_modules/
+build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
