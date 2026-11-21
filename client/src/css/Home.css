@@ -1,0 +1,30 @@
+.__Home {
+  padding-top: 5rem;
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.__Home .custom-upload {
+  padding: 2rem 2rem;
+  width: 100%;
+  overflow-x: auto;
+  min-height: 20rem;
+  height: 100%;
+}
+
+.__Home .output {
+  padding: 2rem 2rem;
+  width: 100%;
+  overflow-x: auto;
+  min-height: 20rem;
+  height: 100%;
+}
